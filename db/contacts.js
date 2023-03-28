@@ -128,7 +128,7 @@ async function fillDummyData() {
             }, {
                 firstName: "Charlie",
                 lastName: "Puth",
-                email: "charlieputh@wedonttalkanymore.com",
+                email: "charlieputh@vevo.com",
                 phone: "+1 (000) 000-0000",
                 profilePic: await getImageBuffer("charlie.jpeg", jpegsPath)
             }
